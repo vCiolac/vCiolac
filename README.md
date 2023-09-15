@@ -35,29 +35,31 @@
 
 
 #### Ferramentas e Outros
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-- ![React Context API](https://img.shields.io/badge/React_Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-EFBB21?style=for-the-badge&logo=linux&logoColor=000)
-- ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) 
-- ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![React Context API](https://img.shields.io/badge/React_Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-EFBB21?style=for-the-badge&logo=linux&logoColor=000)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) 
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### Projetos Destacados
 
-- ![Portfolio VSCode](https://vciolac.vercel.app/): Meu incrível site pessoal, inspirado no Visual Studio Code.
-- ![App de Receitas](https://recipes-app-vciolac.vercel.app/): App de receitas para celular.
-- ![Jogo de Aventura por Texto](https://vCiolac.github.io/cyo): Jogo de Aventura em Texto totalmente feito em JS.
-
+- [Portfolio VSCode](https://vciolac.vercel.app/): Meu incrível site pessoal, inspirado no Visual Studio Code.
+<hr>
+- [App de Receitas](https://recipes-app-vciolac.vercel.app/): App de receitas para celular.
+<hr>
+- [Jogo de Aventura por Texto](https://vCiolac.github.io/cyo): Jogo de Aventura em Texto totalmente feito em JS.
+<hr>
 
 ### Contatos
 
 Estou sempre aberto a novas oportunidades e colaborações:
 
-[![Linkedin Badge](https://img.shields.io/badge/-IanBorges-1e66b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vciolac/)](https://www.linkedin.com/in/vciolac/) 
+[![Linkedin Badge](https://img.shields.io/badge/-vCiolac-1e66b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vciolac/)](https://www.linkedin.com/in/vciolac/) 
 __
-[![Gmail Badge](https://img.shields.io/badge/-IanBorges-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.bcfraga@gmail.com)](mailto:victor.bcfraga@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-vCiolac-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.bcfraga@gmail.com)](mailto:victor.bcfraga@gmail.com)
 __
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-00d446?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521992284002)](https://api.whatsapp.com/send?phone=5521992284002)
 
