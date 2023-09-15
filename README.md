@@ -44,13 +44,18 @@
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+<hr>
+
 ### Projetos Destacados
 
 - [Portfolio VSCode](https://vciolac.vercel.app/): Meu incrível site pessoal, inspirado no Visual Studio Code.
-<hr>
+
+
 - [App de Receitas](https://recipes-app-vciolac.vercel.app/): App de receitas para celular.
-<hr>
+
+
 - [Jogo de Aventura por Texto](https://vCiolac.github.io/cyo): Jogo de Aventura em Texto totalmente feito em JS.
+
 <hr>
 
 ### Contatos
