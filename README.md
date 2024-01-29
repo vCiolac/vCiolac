@@ -53,17 +53,26 @@
   <img align="center" alt="tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   <img align="center" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img align="center" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 </div>
 
 ##
 
 <h3 align="center">🗃️ Projetos Destacados</h3>
+<div align="center">
 
-- [Portfolio VSCode](https://vciolac.vercel.app/): Meu incrível site pessoal, inspirado no Visual Studio Code.
+[Portfolio VSCode](https://vciolac.vercel.app/): 
 
-- [Jogo de Aventura por Texto](https://vCiolac.github.io/cyo): Jogo de Aventura em Texto totalmente feito em JS.
+Meu incrível site pessoal, inspirado no Visual Studio Code.
 
-- [App de Receitas](https://recipes-app-vciolac.vercel.app/): App de receitas para celular.
+[Jogo de Aventura por Texto](https://vCiolac.github.io/cyo): 
+
+Jogo de Aventura em Texto totalmente feito em JS.
+
+[App de Receitas](https://recipes-app-vciolac.vercel.app/): 
+
+Projeto para demonstrar um app de receitas para celular.
+</div>
 
 ##
 
