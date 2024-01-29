@@ -1,76 +1,74 @@
-# Victor Ciolac
+<h1 align="center">Olá! Eu sou Victor Ciolac 👋</h1>
 
-<hr>
+<h3 align="center">💻 Desenvolvedor Web Full-Stack</h3>
+<h3 align="center">📱 Desenvolvedor Games Godot</h3>
 
-👋 Olá! Eu sou Victor Ciolac, um desenvolvedor Front-End apaixonado por criar interfaces web incríveis. Com 28 anos de idade, estou empenhado em aprimorar minhas habilidades e contribuir para projetos emocionantes no mundo da tecnologia.
+<h4 align="center">Com 28 anos de idade, estou empenhado em aprimorar minhas habilidades e contribuir para projetos emocionantes no mundo da tecnologia. </h4>
 
-📚 Meu fascínio pela programação começou há algum tempo, e desde então venho explorando e aprendendo continuamente para me tornar um desenvolvedor mais habilidoso.
+<h5 align="center">No momento em transição de carreira através da TRYBE, adiquirindo conhecimentos de Desenvolvimento Web, Front-end, Back-end, Ciência da Computação, Engenharia de Software, metodologias ágeis e habilidades sócio-comportamentais</h6>
 
-<hr>
-
-### Habilidades
-
-#### Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Frameworks e Bibliotecas
-![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Material-UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Context API](https://img.shields.io/badge/React_Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Styled Components](https://img.shields.io/badge/Styled_Components-3D3D3D?style=for-the-badge&logo=styled-components&logoColor=FEA4E7)
-
-#### Banco de Dados
- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-###  Tests
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-FFF?style=for-the-badge&logo=cypress&logoColor=25292D)
+<p align="center">
+  <a href="https://vciolac.vercel.app" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=20F700&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+Full+Stack!;Bem+vindo!+Fique+a+vontade+para+me+contatar!;Veja+mais+acessando+o+meu+portfólio!" alt="Typing SVG">
+  </a>
+</p>
 
 
-#### Ferramentas e Outros
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-EFBB21?style=for-the-badge&logo=linux&logoColor=000)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) 
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+##
 
-<hr>
 
-### Projetos Destacados
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vciolac&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vciolac&layout=compact&theme=radical" />
+</div>
+    
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JEST" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+  <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+  <img align="center" alt="materialui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+  <img align="center" alt="markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+  <img align="center" alt="mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+  <img align="center" alt="nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+  <img align="center" alt="tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+  <img align="center" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+</div>
+
+##
+
+<h3 align="center">🗃️ Projetos Destacados</h3>
 
 - [Portfolio VSCode](https://vciolac.vercel.app/): Meu incrível site pessoal, inspirado no Visual Studio Code.
 
+- [Jogo de Aventura por Texto](https://vCiolac.github.io/cyo): Jogo de Aventura em Texto totalmente feito em JS.
 
 - [App de Receitas](https://recipes-app-vciolac.vercel.app/): App de receitas para celular.
 
+##
 
-- [Jogo de Aventura por Texto](https://vCiolac.github.io/cyo): Jogo de Aventura em Texto totalmente feito em JS.
-
-<hr>
-
-### Contatos
-
-Estou sempre aberto a novas oportunidades e colaborações:
-
-[![Linkedin Badge](https://img.shields.io/badge/-vCiolac-1e66b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vciolac/)](https://www.linkedin.com/in/vciolac/) 
-__
-[![Gmail Badge](https://img.shields.io/badge/-vCiolac-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.bcfraga@gmail.com)](mailto:victor.bcfraga@gmail.com)
-__
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-00d446?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521992284002)](https://api.whatsapp.com/send?phone=5521992284002)
-
-<hr>
-
-## GitHub Status
-
-![Seu Status do GitHub](https://github-readme-stats.vercel.app/api?username=vciolac&show_icons=true&theme=radical)
-![Suas Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vciolac&layout=compact&theme=radical)
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/vciolac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://vciolac.vercel.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+   <a href="mailto:victor.bcfraga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
+</div>
