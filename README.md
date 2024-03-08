@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=052500&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39824f&height=120&section=header"/>
 
 <h1 align="center">Olá! Eu sou Victor Ciolac 👋</h1>
 
@@ -83,4 +83,4 @@ Projeto para demonstrar um app de receitas para celular.
    <a href="https://vciolac.vercel.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
    <a href="mailto:victor.bcfraga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=052500&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39824f&height=120&section=footer"/>
