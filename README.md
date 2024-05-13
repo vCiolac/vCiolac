@@ -7,7 +7,7 @@
 
 <h4 align="center">Com 29 anos de idade, estou empenhado em aprimorar minhas habilidades e contribuir para projetos emocionantes no mundo da tecnologia. </h4>
 
-<h5 align="center">No momento em transição de carreira através da TRYBE, adiquirindo conhecimentos de Desenvolvimento Web, Front-end, Back-end, Ciência da Computação, Engenharia de Software, metodologias ágeis e habilidades sócio-comportamentais</h6>
+<h5 align="center">Recentemente me formei na Trybe, onde adquiri conhecimentos abrangentes em Desenvolvimento Web, Front-end, Back-end, Ciência da Computação, Engenharia de Software, metodologias ágeis e habilidades sócio-comportamentais.</h5>
 
 <p align="center">
   <a href="https://vciolac.vercel.app" target="_blank">
