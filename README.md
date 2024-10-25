@@ -63,17 +63,18 @@
 <h3 align="center">🗃️ Projetos Destacados</h3>
 <div align="center">
 
-[Portfolio VSCode](https://vciolac.vercel.app/): 
+[Portfolio](https://vciolac.vercel.app/): 
 
-Meu incrível site pessoal, inspirado no Visual Studio Code.
+Meu incrível site pessoal.
 
 [Jogo de Aventura por Texto](https://vCiolac.github.io/cyo): 
 
 Jogo de Aventura em Texto totalmente feito em JS.
 
-[App de Receitas](https://recipes-app-vciolac.vercel.app/): 
+[Portfolio VSCode](https://vciolac.vercel.app/): 
 
-Projeto para demonstrar um app de receitas para celular.
+Meu antigo portfolio, inspirado no Visual Studio Code.
+
 </div>
 
 ##
